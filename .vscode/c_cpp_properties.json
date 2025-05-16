@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${default}",
+        "/opt/homebrew/Cellar/openssl@3/3.5.0/include"
+      ],
+      "defines": [],
+      "cStandard": "c23",
+      "cppStandard": "c++23",
+      "intelliSenseMode": "macos-clang-arm64",
+      "compilerPath": "/usr/bin/clang"
+    }
+  ],
+  "version": 4
+}
